@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Because of You</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://Moocii.github.io/"/>
+  <updated>2017-10-08T07:32:55.203Z</updated>
+  <id>http://Moocii.github.io/</id>
+  
+  <author>
+    <name>Moocii</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="http://Moocii.github.io/2017/10/04/New-Start/"/>
+    <id>http://Moocii.github.io/2017/10/04/New-Start/</id>
+    <published>2017-10-04T16:29:59.000Z</published>
+    <updated>2017-10-08T07:32:55.203Z</updated>
+    
+    <content type="html"><![CDATA[<p>In memory of 18.</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In memory of 18.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随感" scheme="http://Moocii.github.io/categories/%E9%9A%8F%E6%84%9F/"/>
+    
+    
+      <category term="随感" scheme="http://Moocii.github.io/tags/%E9%9A%8F%E6%84%9F/"/>
+    
+  </entry>
+  
+</feed>
