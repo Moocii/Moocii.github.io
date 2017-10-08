@@ -5,6 +5,8 @@ categories:
   - 随感
 tags:
   - 随感
+coverImage:
+  - head.jpg
 ---
 
 In memory of 18.
